@@ -10,13 +10,13 @@ The Preprocessing of the dataset:
 
 The training set:
 
-The pixel values are rescaled in the [0, 1]
-The batch size is 32
+The pixel values are rescaled in the [0, 1].
+The batch size is 32.
 
 The validation set:
 
-The pixel values are rescaled in the [0, 1]
-The batch size is 32
+The pixel values are rescaled in the [0, 1].
+The batch size is 32.
 
 
 A Convolutional Layer with 32 filters, 3 x 3 kernel size, Relu activation function and (28, 28, 1) as input size
